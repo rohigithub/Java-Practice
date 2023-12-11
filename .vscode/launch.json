@@ -1,0 +1,140 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "com.generation.Main",
+      "projectName": "JSD_Java_59fbc020"
+    },
+    {
+      "type": "java",
+      "name": "testtreemap",
+      "request": "launch",
+      "mainClass": "Collections.Map.TreeMap.testtreemap",
+      "projectName": "JSD_Java_59fbc020"
+    },
+    {
+      "type": "java",
+      "name": "testhashMap",
+      "request": "launch",
+      "mainClass": "Collections.Map.HashMap.testhashMap",
+      "projectName": "JSD_Java_59fbc020"
+    },
+    {
+      "type": "java",
+      "name": "testtreeset",
+      "request": "launch",
+      "mainClass": "Collections.Set.testtreeset",
+      "projectName": "JSD_Java_59fbc020"
+    },
+    {
+      "type": "java",
+      "name": "testhashset",
+      "request": "launch",
+      "mainClass": "Collections.Set.testhashset",
+      "projectName": "JSD_Java_59fbc020"
+    },
+    {
+      "type": "java",
+      "name": "testprqueue",
+      "request": "launch",
+      "mainClass": "Collections.Queue.Priority_Queue.testprqueue",
+      "projectName": "JSD_Java_59fbc020"
+    },
+    {
+      "type": "java",
+      "name": "teststack",
+      "request": "launch",
+      "mainClass": "Collections.List.Stack.teststack",
+      "projectName": "JSD_Java_59fbc020"
+    },
+    {
+      "type": "java",
+      "name": "testlinkedlist",
+      "request": "launch",
+      "mainClass": "Collections.List.Linked_List.testlinkedlist",
+      "projectName": "JSD_Java_59fbc020"
+    },
+    {
+      "type": "java",
+      "name": "test_arraylist",
+      "request": "launch",
+      "mainClass": "Collections.List.Array_List.test_arraylist",
+      "projectName": "JSD_Java_59fbc020"
+    },
+    {
+      "type": "java",
+      "name": "testfinally",
+      "request": "launch",
+      "mainClass": "Abstraction.Exception_Handling.testfinally",
+      "projectName": "JSD Java_5683f761"
+    },
+    {
+      "type": "java",
+      "name": "nextedtry",
+      "request": "launch",
+      "mainClass": "Abstraction.Exception_Handling.nextedtry",
+      "projectName": "JSD Java_5683f761"
+    },
+    {
+      "type": "java",
+      "name": "IceCream",
+      "request": "launch",
+      "mainClass": "Abstraction.IceCream",
+      "projectName": "JSD Java_5683f761"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "TestAbstact",
+      "request": "launch",
+      "mainClass": "Abstraction.TestAbstact",
+      "projectName": "JSD Java_5683f761"
+    },
+    {
+      "type": "java",
+      "name": "Bike",
+      "request": "launch",
+      "mainClass": "Bike",
+      "projectName": "JSD Java_5683f761"
+    },
+    {
+      "type": "java",
+      "name": "Inheritancedemo",
+      "request": "launch",
+      "mainClass": "Inheritancedemo",
+      "projectName": "JSD Java_5683f761"
+    },
+    {
+      "type": "java",
+      "name": "Overloading",
+      "request": "launch",
+      "mainClass": "Overloading",
+      "projectName": "JSD Java_5683f761"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Test",
+      "projectName": "JSD Java_5683f761"
+    },
+    {
+      "type": "java",
+      "name": "Vehicle",
+      "request": "launch",
+      "mainClass": "Vehicle",
+      "projectName": "JSD Java_5683f761"
+    }
+  ]
+}
