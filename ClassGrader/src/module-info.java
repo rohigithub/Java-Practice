@@ -1,0 +1,2 @@
+module classGrader {
+}
